@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490617221 source:c:\users\fox\documents\programs\uni_otimizacao_01_v03\main.cpp
+	<iostream>
+	<array>
+	<pthread.h>
+
